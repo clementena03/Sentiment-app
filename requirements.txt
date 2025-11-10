@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+matplotlib
+praw
+wordcloud
+joblib
+sqlite3-binary
